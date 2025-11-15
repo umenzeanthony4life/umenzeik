@@ -1,1 +1,1 @@
-This is my  third.txt .git init
+This is my  third.txt .
